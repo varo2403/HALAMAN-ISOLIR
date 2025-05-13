@@ -1,10 +1,4 @@
-<!doctype html>
-<html>
-	<head>
-		<title>Expire</title>
-	</head>
-	<body>
-		<div><center>
+
 			<img align="center" src="wifi off.jpeg" />
 <p><h2>Pelanggan J4RLINK.Net yang terhormat,
 </p>Kami informasikan bahwa layanan internet anda saat ini terisolir dan tidak dapat diakses. 
